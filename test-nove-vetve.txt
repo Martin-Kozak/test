@@ -1,0 +1,5 @@
+Toto je první řádek v textovém editoru na nové větvi
+Toto je druhý řádek
+
+
+Druhý odstavec
